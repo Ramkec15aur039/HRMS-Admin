@@ -1,0 +1,21 @@
+.buttonPosition {
+  float: right;
+}
+
+.customPadding {
+  margin-right: 8px;
+}
+
+.action-Padding {
+  padding-left: 1.7rem !important;
+}
+
+.users-main {
+  position: relative;
+}
+
+.users-Alert {
+  top: -8px;
+  right: -85%;
+  width: 200px;
+}

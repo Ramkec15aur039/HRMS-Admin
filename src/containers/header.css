@@ -1,0 +1,12 @@
+.settings-link{
+    text-decoration: none !important;
+    color: #4f5d73 !important;
+}
+.dropdown-item.active, .dropdown-item:active {
+    text-decoration: none;
+    color: black;
+    background-color: #12adbe81 !important;
+}
+.c-sidebar-nav-dropdown-toggle:hover{
+    background-color: transparent !important;
+}

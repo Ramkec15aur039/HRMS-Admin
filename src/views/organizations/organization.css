@@ -1,0 +1,30 @@
+.buttonPosition {
+  float: right;
+}
+
+.customPadding {
+  margin-right: 8px;
+}
+
+.action-Padding {
+  padding-left: 1.7rem !important;
+}
+
+.users-main {
+  position: relative;
+}
+
+.users-Alert {
+  top: -8px;
+  right: -85%;
+  width: 200px;
+}
+#overlay {
+  position: absolute; 
+  height: 95%; 
+  width: 100%; 
+  top:0; 
+  left: 0; 
+  background-color:rgba(204, 204, 204, 0.781);
+  z-index:9999;padding-top: 10px;
+}

@@ -1,0 +1,5 @@
+/** **************************** Export Create User Types ****************************** */
+export const CREATE_SYSTEM_USERS_SUCCESS = "CREATE_SYSTEM_USERS_SUCCESS";
+export const CREATE_SYSTEM_USERS_FAILURE = "CREATE_SYSTEM_USERS_FAILURE";
+export const CREATE_SYSTEM_USERS_REQUEST = "CREATE_SYSTEM_USERS_REQUEST";
+export const CLEAR_CREATE_SYSTEM_USERS_STATE = "CLEAR_CREATE_SYSTEM_USERS_STATE";

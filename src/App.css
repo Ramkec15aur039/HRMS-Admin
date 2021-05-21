@@ -1,0 +1,11 @@
+.c-sidebar {
+    color: #fff;
+    background: #12ADBE;
+}
+.c-sidebar-nav-link:hover{
+    background-color: black !important;
+}
+.inputFocus:focus {
+    border:2px solid #12ADBE !important;
+    box-shadow: 0 0 10px #8fe8f1a6;
+}
